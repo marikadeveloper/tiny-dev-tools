@@ -20,3 +20,7 @@ Usage: run `python file-sorter.py` in the folder you want to sort.
 ### log-cleaner.sh
 
 Usage: Save it as `log-cleaner.sh`, then execute `./log-cleaner.sh <path/to/log-file> <lines-to-keep>`.
+
+### commit-template.sh
+
+Usage: `./commit-template.sh` after staging changes.
