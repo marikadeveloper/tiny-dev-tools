@@ -7,7 +7,7 @@ I use them in my daily programming tasks and I hope you find them useful too. :)
 
 ### git-cleanup.sh
 
-Usage: Save it as `git-cleanup.sh`, run `chmod +x git-cleanup.sh`, then execute `./git-cleanup.sh`.
+Usage: Save it as `git-cleanup.sh`, then execute `./git-cleanup.sh`.
 
 ### port-checker.py
 
@@ -16,3 +16,7 @@ Usage: Save it as `port-checker.py`, run `python port-checker.py <port-nr>`.
 ### file-sorter.py
 
 Usage: run `python file-sorter.py` in the folder you want to sort.
+
+### log-cleaner.sh
+
+Usage: Save it as `log-cleaner.sh`, then execute `./log-cleaner.sh <path/to/log-file> <lines-to-keep>`.
