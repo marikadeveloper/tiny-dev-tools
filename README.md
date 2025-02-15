@@ -27,4 +27,4 @@ Usage: `./commit-template.sh` after staging changes.
 
 ### slack-webhook-notifier.js
 
-Usage: `node slack-notifier.js`. Customize as needed.
+Usage: Customize as needed. Execute `node slack-notifier.js`.
