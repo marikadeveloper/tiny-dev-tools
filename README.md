@@ -24,3 +24,7 @@ Usage: Save it as `log-cleaner.sh`, then execute `./log-cleaner.sh <path/to/log-
 ### commit-template.sh
 
 Usage: `./commit-template.sh` after staging changes.
+
+### slack-webhook-notifier.js
+
+Usage: `node slack-notifier.js`. Customize as needed.
